@@ -1,10 +1,6 @@
 # keras-text-summarization
 
-Text summarization using seq2seq and encoder-decoder recurrent networks in Keras
-
-# Machine Learning Models
-
-The follow neural network models are implemented and studied for text summarization:
+Text summarization using seq2seq and encoder-decoder recurrent networks in Kehttps://github.com/whosawmeras
 
 ### Seq2Seq
 
